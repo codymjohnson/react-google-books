@@ -1,0 +1,17 @@
+.navbar {
+    background-color: orange;
+    margin: 0;
+}
+
+a {
+    color: black;
+    justify-content: center;
+}
+
+.navbar-brand {
+    text-align: center;
+}
+
+.text-white {
+    justify-content: center;
+}
